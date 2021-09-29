@@ -1963,16 +1963,16 @@
         },
         {
             "name": "lcobucci/jwt",
-            "version": "4.1.2",
+            "version": "4.1.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/lcobucci/jwt.git",
-                "reference": "c544710aa18e079baf0027ca4c8236913f46945b"
+                "reference": "fe2d89f2eaa7087af4aa166c6f480ef04e000582"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/lcobucci/jwt/zipball/c544710aa18e079baf0027ca4c8236913f46945b",
-                "reference": "c544710aa18e079baf0027ca4c8236913f46945b",
+                "url": "https://api.github.com/repos/lcobucci/jwt/zipball/fe2d89f2eaa7087af4aa166c6f480ef04e000582",
+                "reference": "fe2d89f2eaa7087af4aa166c6f480ef04e000582",
                 "shasum": ""
             },
             "require": {
@@ -1988,7 +1988,7 @@
                 "infection/infection": "^0.21",
                 "lcobucci/coding-standard": "^6.0",
                 "mikey179/vfsstream": "^1.6.7",
-                "phpbench/phpbench": "^1.0@alpha",
+                "phpbench/phpbench": "^1.0",
                 "phpstan/extension-installer": "^1.0",
                 "phpstan/phpstan": "^0.12",
                 "phpstan/phpstan-deprecation-rules": "^0.12",
@@ -2021,7 +2021,7 @@
             ],
             "support": {
                 "issues": "https://github.com/lcobucci/jwt/issues",
-                "source": "https://github.com/lcobucci/jwt/tree/4.1.2"
+                "source": "https://github.com/lcobucci/jwt/tree/4.1.5"
             },
             "funding": [
                 {
@@ -2033,7 +2033,7 @@
                     "type": "patreon"
                 }
             ],
-            "time": "2021-02-19T19:37:15+00:00"
+            "time": "2021-09-28T19:34:56+00:00"
         },
         {
             "name": "lexik/jwt-authentication-bundle",
@@ -7231,5 +7231,5 @@
         "ext-iconv": "*"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.0.0"
+    "plugin-api-version": "2.1.0"
 }
